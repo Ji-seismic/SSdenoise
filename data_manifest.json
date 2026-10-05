@@ -1,0 +1,14 @@
+[
+  {
+    "path": "syn_swell/data.mat",
+    "sha256": "d70cd50b1e9f875e4232fbef2ac1ff68a81694788486b1247fcad3a3c021a14d"
+  },
+  {
+    "path": "syn_swell/data_2.mat",
+    "sha256": "a357899d275c4f3bf823e77d552274368846a56f548222b118e5c4c9217f84e7"
+  },
+  {
+    "path": "real_swell/d_swell_real.mat",
+    "sha256": "54818ec863d0f22a2fca34c5f5d5e0591af913070e17555eb160410686390f67"
+  }
+]
